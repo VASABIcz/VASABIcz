@@ -5,7 +5,7 @@ while True:
 ```
 ### Alpha
 ```py
-while 1
+while 1:
   ...
 ```
 ### Sigma
