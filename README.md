@@ -1,14 +1,14 @@
-# Beta
+### Beta
 ```py
 while True:
   ...
 ```
-# Alpha
+### Alpha
 ```py
 while 1
   ...
 ```
-# Sigma
+### Sigma
 ```py
 while 1 != 0:
   ...
