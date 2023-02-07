@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VASABI</h1>
 <h3 align="center">I specialize in backends with spring boot and kotlin</h3>
-<h3 align="center">I also do low level and embeded programing </h3>
+<h3 align="center">I also do low level and embeded programming </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
