@@ -12,6 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VASABIcz&langs_count=8&hide=CMake,QMake&theme=tokyonight)
 
-socials:
+## socials:
 - discord : VASABI#3057
 - e-mail : vasabisroa@gmail.com
