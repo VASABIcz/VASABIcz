@@ -14,4 +14,4 @@
 
 ## socials:
 - discord : VASABI#3057
-- e-mail : vasabisroa@gmail.com
+- e-mail : machvaclav12@seznam.cz
