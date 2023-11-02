@@ -17,8 +17,7 @@
 
 
 ```C
-#include <stdio.h>
-int main(){printf("%c\n",2["AB""CD""EF""GH"+3]);}
+extern int putchar(int);int main(){putchar(2["AB""CD""EF""GH"+3]);}
 ```
 
 ## socials:
