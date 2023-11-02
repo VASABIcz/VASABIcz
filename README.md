@@ -15,6 +15,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VASABIcz&langs_count=8&hide=CMake,QMake&theme=tokyonight)
 
+
+```C
+#include <stdio.h>
+int main(){printf("%c\n",2["AB""CD""EF""GH"+3]);}
+```
+
 ## socials:
 - discord : uwusabi
 - e-mail : machvaclav12@seznam.cz
