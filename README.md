@@ -22,4 +22,4 @@ extern int putchar(int);int main(){putchar(2["AB""CD""EF""GH"+3]);}
 
 ## socials:
 - discord : uwusabi
-- e-mail : machvaclav12@seznam.cz
+- e-mail : me@vasabi.dev
