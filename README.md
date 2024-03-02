@@ -15,8 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VASABIcz&langs_count=8&hide=CMake,QMake&theme=tokyonight)
 
-<figure><embed src="https://wakatime.com/share/@018c725e-243a-4114-a4b5-5a2e78442373/199d7f91-cc57-4c62-a776-07af98ffc61c.svg"></embed></figure>
-
+![Coding Activity](https://wakatime.com/share/@018c725e-243a-4114-a4b5-5a2e78442373/431c329e-12eb-4296-8d91-f950f87ad474.svg)
 
 ```C
 extern int putchar(int);int main(){putchar(2["AB""CD""EF""GH"+3]);}
