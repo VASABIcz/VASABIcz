@@ -34,5 +34,5 @@ int main() {
 ```
 
 ## socials:
-- discord : ![uwusabi](https://discordapp.com/users/840721568300531713)
+- discord : [uwusabi](https://discordapp.com/users/840721568300531713)
 - e-mail : me@vasabi.dev
